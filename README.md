@@ -51,8 +51,8 @@ ezvn
 * [oracle中如何生成awr报告](http://ezvn.cn/articles/2019/03/25/1553501400910.html)
 * [生成awr报告时报ORA-06502: PL/SQL: 数字或值错误 : 字符串缓冲区太小](http://ezvn.cn/articles/2019/03/25/1553502975079.html)
 * [Centos7上安装docker](http://ezvn.cn/articles/2019/03/26/1553576290546.html)
+* [【SpringBoot】— lombok的使用和原理](http://ezvn.cn/articles/2019/03/31/1554041874916.html)
 * [Spring-Boot中Spring Session介绍](http://ezvn.cn/articles/2019/03/31/1554042169782.html)
-* [SpringBoot AOP 拦截器 Aspect](http://ezvn.cn/articles/2019/03/31/1554042598610.html)
 
 ### 热议
 
@@ -65,10 +65,10 @@ ezvn
 * [linu命令](http://ezvn.cn/articles/2019/03/28/1553762241292.html)
 * [MySQL免安装版，遇到MSVCR120.dll文件丢失错误的解决方案](http://ezvn.cn/articles/2019/03/30/1553941174223.html)
 * [spring-boot-configuration-processor的作用](http://ezvn.cn/articles/2019/03/31/1554041820739.html)
-* [【SpringBoot】— lombok的使用和原理](http://ezvn.cn/articles/2019/03/31/1554041874916.html)
 * [Spring DevTools 介绍](http://ezvn.cn/articles/2019/03/31/1554041933645.html)
 * [Spring Boot使用校验框架validation校验](http://ezvn.cn/articles/2019/03/31/1554042317399.html)
 * [SpringBoot 中使用Spring retry 重试机制](http://ezvn.cn/articles/2019/03/31/1554042402379.html)
+* [SpringBoot AOP 拦截器 Aspect](http://ezvn.cn/articles/2019/03/31/1554042598610.html)
 * [Shiro和Spring Security对比](http://ezvn.cn/articles/2019/03/31/1554043655320.html)
 * [SpringBoot mongodb](http://ezvn.cn/articles/2019/03/31/1554043829162.html)
 * [Spring Integration概述](http://ezvn.cn/articles/2019/03/31/1554043904219.html)
