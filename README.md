@@ -10,6 +10,8 @@ ezvn
 
 ### 最新
 
+* [Tomcat启用GZIP压缩，提升web性能](http://ezvn.cn/articles/2019/04/11/1554966243567.html)
+* [Tomcat启用GZIP压缩，提升web性能](http://ezvn.cn/articles/2019/04/11/1554964819864.html)
 * [linux安装宝塔](http://ezvn.cn/articles/2019/04/10/1554879076893.html)
 * [CentOS7 无法使用yum命令，无法更新解决方法](http://ezvn.cn/articles/2019/04/10/1554876590985.html)
 * [Centos7中设置IP](http://ezvn.cn/articles/2019/04/10/1554873977434.html)
@@ -28,11 +30,10 @@ ezvn
 * [PMP-第五章-项目范围管理](http://ezvn.cn/articles/2019/04/08/1554711205334.html)
 * [PMP-第六章-项目进度管理](http://ezvn.cn/articles/2019/04/08/1554711027490.html)
 * [PMP-第七章-项目成本管理](http://ezvn.cn/articles/2019/04/08/1554710897545.html)
-* [PMP-第八章-项目质量管理](http://ezvn.cn/articles/2019/04/08/1554710630464.html)
-* [idea 使用](http://ezvn.cn/articles/2019/04/03/1554301665559.html)
 
 ### 热门
 
+* [PMP-第八章-项目质量管理](http://ezvn.cn/articles/2019/04/08/1554710630464.html)
 * [centos7使用 <b>firewalld</b> 打开关闭防火墙与端口](http://ezvn.cn/articles/2019/03/24/1553437262508.html)
 * [动态创建javascript方式](http://ezvn.cn/articles/2019/03/24/1553401999674.html)
 * [VPN搭建和使用](http://ezvn.cn/articles/2019/03/26/1553578523423.html)
@@ -52,7 +53,6 @@ ezvn
 * [生成awr报告时报ORA-06502: PL/SQL: 数字或值错误 : 字符串缓冲区太小](http://ezvn.cn/articles/2019/03/25/1553502975079.html)
 * [Centos7上安装docker](http://ezvn.cn/articles/2019/03/26/1553576290546.html)
 * [【SpringBoot】— lombok的使用和原理](http://ezvn.cn/articles/2019/03/31/1554041874916.html)
-* [Spring-Boot中Spring Session介绍](http://ezvn.cn/articles/2019/03/31/1554042169782.html)
 
 ### 热议
 
@@ -66,6 +66,7 @@ ezvn
 * [MySQL免安装版，遇到MSVCR120.dll文件丢失错误的解决方案](http://ezvn.cn/articles/2019/03/30/1553941174223.html)
 * [spring-boot-configuration-processor的作用](http://ezvn.cn/articles/2019/03/31/1554041820739.html)
 * [Spring DevTools 介绍](http://ezvn.cn/articles/2019/03/31/1554041933645.html)
+* [Spring-Boot中Spring Session介绍](http://ezvn.cn/articles/2019/03/31/1554042169782.html)
 * [Spring Boot使用校验框架validation校验](http://ezvn.cn/articles/2019/03/31/1554042317399.html)
 * [SpringBoot 中使用Spring retry 重试机制](http://ezvn.cn/articles/2019/03/31/1554042402379.html)
 * [SpringBoot AOP 拦截器 Aspect](http://ezvn.cn/articles/2019/03/31/1554042598610.html)
@@ -75,7 +76,6 @@ ezvn
 * [ORA-01033: ORACLE initialization or shutdown in progress](http://ezvn.cn/articles/2019/04/01/1554083679006.html)
 * [关于ORA-00257: archiver error. Connect internal only, until freed 错误的处理方法](http://ezvn.cn/articles/2019/04/01/1554088698414.html)
 * [Tomcat语言编码配置](http://ezvn.cn/articles/2019/04/01/1554096428618.html)
-* [SpringBoot跨域配置](http://ezvn.cn/articles/2019/04/01/1554102697976.html)
 
 ---
 
