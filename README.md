@@ -1,8 +1,8 @@
-<p align="center"><img alt="ezvn" src="https://ws1.sinaimg.cn/large/ab71ac88ly1g1w7xhs9fdj20e80e811d.jpg"></p><h2 align="center">
+<p align="center"><img alt="ezvn" src="https://ws4.sinaimg.cn/large/ab71ac88ly1g1ywdt76o4j20kq0kudgj.jpg"></p><h2 align="center">
 ezvn
 </h2>
 
-<h4 align="center">ezvn博客</h4>
+<h4 align="center"><p id="ezvn"></p></h4>
 <p align="center"><a title="ezvn" target="_blank" href="https://github.com/wanwenjie1993/solo-blog"><img src="https://img.shields.io/github/last-commit/wanwenjie1993/solo-blog.svg?style=flat-square"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github/wanwenjie1993/solo-blog"><img src="https://img.shields.io/github/repo-size/wanwenjie1993/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.5.0-f1e05a.svg?style=flat-square"></a>
@@ -33,18 +33,14 @@ ezvn
 
 ### 热门
 
-* [PMP-第八章-项目质量管理](http://ezvn.cn/articles/2019/04/08/1554710630464.html)
 * [centos7使用 <b>firewalld</b> 打开关闭防火墙与端口](http://ezvn.cn/articles/2019/03/24/1553437262508.html)
+* [PMP-第八章-项目质量管理](http://ezvn.cn/articles/2019/04/08/1554710630464.html)
 * [动态创建javascript方式](http://ezvn.cn/articles/2019/03/24/1553401999674.html)
 * [VPN搭建和使用](http://ezvn.cn/articles/2019/03/26/1553578523423.html)
 * [PMP](http://ezvn.cn/articles/2019/03/28/1553774438790.html)
 * [centos7安装jdk环境](http://ezvn.cn/articles/2019/03/24/1553402195297.html)
-* [Linux（Centos7）下搭建SVN服务器](http://ezvn.cn/articles/2019/03/28/1553753125671.html)
 * [SpringBoot中使用Thymeleaf模板](http://ezvn.cn/articles/2019/03/24/1553441287274.html)
-* [Account Info](http://ezvn.cn/password)
-* [CSC系统问题处理](http://ezvn.cn/csc)
-* [MySQL绿色版安装整套流程](http://ezvn.cn/articles/2019/03/30/1553945492719.html)
-* [Spring Boot Cache使用与整合](http://ezvn.cn/articles/2019/03/31/1554042251256.html)
+* [Linux（Centos7）下搭建SVN服务器](http://ezvn.cn/articles/2019/03/28/1553753125671.html)
 * [使用 Spring Shell 开发 Java 命令行应用](http://ezvn.cn/articles/2019/03/31/1554044276457.html)
 * [centos7 安装Mariadb](http://ezvn.cn/articles/2019/03/24/1553439777058.html)
 * [内网穿透frp linux服务端搭建和windows客户端使用](http://ezvn.cn/articles/2019/03/24/1553440714576.html)
@@ -52,7 +48,11 @@ ezvn
 * [oracle中如何生成awr报告](http://ezvn.cn/articles/2019/03/25/1553501400910.html)
 * [生成awr报告时报ORA-06502: PL/SQL: 数字或值错误 : 字符串缓冲区太小](http://ezvn.cn/articles/2019/03/25/1553502975079.html)
 * [Centos7上安装docker](http://ezvn.cn/articles/2019/03/26/1553576290546.html)
-* [【SpringBoot】— lombok的使用和原理](http://ezvn.cn/articles/2019/03/31/1554041874916.html)
+* [Account Info](http://ezvn.cn/password)
+* [CSC系统问题处理](http://ezvn.cn/csc)
+* [MySQL绿色版安装整套流程](http://ezvn.cn/articles/2019/03/30/1553945492719.html)
+* [Spring Boot Cache使用与整合](http://ezvn.cn/articles/2019/03/31/1554042251256.html)
+* [SpringBoot跨域配置](http://ezvn.cn/articles/2019/04/01/1554102697976.html)
 
 ### 热议
 
@@ -65,6 +65,7 @@ ezvn
 * [linu命令](http://ezvn.cn/articles/2019/03/28/1553762241292.html)
 * [MySQL免安装版，遇到MSVCR120.dll文件丢失错误的解决方案](http://ezvn.cn/articles/2019/03/30/1553941174223.html)
 * [spring-boot-configuration-processor的作用](http://ezvn.cn/articles/2019/03/31/1554041820739.html)
+* [【SpringBoot】— lombok的使用和原理](http://ezvn.cn/articles/2019/03/31/1554041874916.html)
 * [Spring DevTools 介绍](http://ezvn.cn/articles/2019/03/31/1554041933645.html)
 * [Spring-Boot中Spring Session介绍](http://ezvn.cn/articles/2019/03/31/1554042169782.html)
 * [Spring Boot使用校验框架validation校验](http://ezvn.cn/articles/2019/03/31/1554042317399.html)
@@ -75,7 +76,6 @@ ezvn
 * [Spring Integration概述](http://ezvn.cn/articles/2019/03/31/1554043904219.html)
 * [ORA-01033: ORACLE initialization or shutdown in progress](http://ezvn.cn/articles/2019/04/01/1554083679006.html)
 * [关于ORA-00257: archiver error. Connect internal only, until freed 错误的处理方法](http://ezvn.cn/articles/2019/04/01/1554088698414.html)
-* [Tomcat语言编码配置](http://ezvn.cn/articles/2019/04/01/1554096428618.html)
 
 ---
 
