@@ -34,16 +34,17 @@ ezvn
 ### 热门
 
 * [centos7使用 <b>firewalld</b> 打开关闭防火墙与端口](http://ezvn.cn/articles/2019/03/24/1553437262508.html)
-* [PMP-第八章-项目质量管理](http://ezvn.cn/articles/2019/04/08/1554710630464.html)
 * [动态创建javascript方式](http://ezvn.cn/articles/2019/03/24/1553401999674.html)
+* [PMP-第八章-项目质量管理](http://ezvn.cn/articles/2019/04/08/1554710630464.html)
 * [VPN搭建和使用](http://ezvn.cn/articles/2019/03/26/1553578523423.html)
+* [内网穿透frp linux服务端搭建和windows客户端使用](http://ezvn.cn/articles/2019/03/24/1553440714576.html)
 * [PMP](http://ezvn.cn/articles/2019/03/28/1553774438790.html)
+* [SpringBoot跨域配置](http://ezvn.cn/articles/2019/04/01/1554102697976.html)
 * [centos7安装jdk环境](http://ezvn.cn/articles/2019/03/24/1553402195297.html)
 * [SpringBoot中使用Thymeleaf模板](http://ezvn.cn/articles/2019/03/24/1553441287274.html)
 * [Linux（Centos7）下搭建SVN服务器](http://ezvn.cn/articles/2019/03/28/1553753125671.html)
 * [使用 Spring Shell 开发 Java 命令行应用](http://ezvn.cn/articles/2019/03/31/1554044276457.html)
 * [centos7 安装Mariadb](http://ezvn.cn/articles/2019/03/24/1553439777058.html)
-* [内网穿透frp linux服务端搭建和windows客户端使用](http://ezvn.cn/articles/2019/03/24/1553440714576.html)
 * [linux输出 /dev/null](http://ezvn.cn/articles/2019/03/25/1553484592317.html)
 * [oracle中如何生成awr报告](http://ezvn.cn/articles/2019/03/25/1553501400910.html)
 * [生成awr报告时报ORA-06502: PL/SQL: 数字或值错误 : 字符串缓冲区太小](http://ezvn.cn/articles/2019/03/25/1553502975079.html)
@@ -52,7 +53,6 @@ ezvn
 * [CSC系统问题处理](http://ezvn.cn/csc)
 * [MySQL绿色版安装整套流程](http://ezvn.cn/articles/2019/03/30/1553945492719.html)
 * [Spring Boot Cache使用与整合](http://ezvn.cn/articles/2019/03/31/1554042251256.html)
-* [SpringBoot跨域配置](http://ezvn.cn/articles/2019/04/01/1554102697976.html)
 
 ### 热议
 
