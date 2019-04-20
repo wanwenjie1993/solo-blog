@@ -40,25 +40,24 @@ ezvn
 * [windows java进程后台启动脚本](https://ezvn.cn/blog/articles/2019/04/09/1554786668810.html)
 * [centos7使用 <b>firewalld</b> 打开关闭防火墙与端口](https://ezvn.cn/blog/articles/2019/03/24/1553437262508.html)
 * [内网穿透frp linux服务端搭建和windows客户端使用](https://ezvn.cn/blog/articles/2019/03/24/1553440714576.html)
-* [PMP-第八章-项目质量管理](https://ezvn.cn/blog/articles/2019/04/08/1554710630464.html)
 * [动态创建javascript方式](https://ezvn.cn/blog/articles/2019/03/24/1553401999674.html)
+* [PMP-第八章-项目质量管理](https://ezvn.cn/blog/articles/2019/04/08/1554710630464.html)
 * [SpringBoot mongodb](https://ezvn.cn/blog/articles/2019/03/31/1554043829162.html)
-* [PMP-第七章-项目成本管理](https://ezvn.cn/blog/articles/2019/04/08/1554710897545.html)
 * [VPN搭建和使用](https://ezvn.cn/blog/articles/2019/03/26/1553578523423.html)
+* [PMP-第七章-项目成本管理](https://ezvn.cn/blog/articles/2019/04/08/1554710897545.html)
 * [PMP-第六章-项目进度管理](https://ezvn.cn/blog/articles/2019/04/08/1554711027490.html)
 * [PMP-第五章-项目范围管理](https://ezvn.cn/blog/articles/2019/04/08/1554711205334.html)
 * [CSC系统问题处理](https://ezvn.cn/blog/csc)
 * [PMP](https://ezvn.cn/blog/articles/2019/03/28/1553774438790.html)
-* [Tomcat语言编码配置](https://ezvn.cn/blog/articles/2019/04/01/1554096428618.html)
-* [SpringBoot跨域配置](https://ezvn.cn/blog/articles/2019/04/01/1554102697976.html)
 * [centos7安装jdk环境](https://ezvn.cn/blog/articles/2019/03/24/1553402195297.html)
 * [[Windows] IDM6.32.6已注册，免弹窗](https://ezvn.cn/blog/articles/2019/03/24/1553441104779.html)
+* [SpringBoot中使用Thymeleaf模板](https://ezvn.cn/blog/articles/2019/03/24/1553441287274.html)
+* [winRAR终极去广告【最终版】适用winrar所有版本 ](https://ezvn.cn/blog/articles/2019/03/26/1553610400920.html)
 
 ### 热议
 
 * [centos7 安装Mariadb](https://ezvn.cn/blog/articles/2019/03/24/1553439777058.html)
 * [SpringBoot Linux 部署脚本](https://ezvn.cn/blog/articles/2019/03/24/1553440423522.html)
-* [SpringBoot中使用Thymeleaf模板](https://ezvn.cn/blog/articles/2019/03/24/1553441287274.html)
 * [打包 解压 tar zip tgz](https://ezvn.cn/blog/articles/2019/03/25/1553478317487.html)
 * [linux输出 /dev/null](https://ezvn.cn/blog/articles/2019/03/25/1553484592317.html)
 * [oracle中如何生成awr报告](https://ezvn.cn/blog/articles/2019/03/25/1553501400910.html)
@@ -66,7 +65,6 @@ ezvn
 * [[Linux] du-查看文件夹大小-并按大小进行排序](https://ezvn.cn/blog/articles/2019/03/26/1553566000514.html)
 * [Centos7上安装docker](https://ezvn.cn/blog/articles/2019/03/26/1553576290546.html)
 * [Account Info](https://ezvn.cn/blog/password)
-* [winRAR终极去广告【最终版】适用winrar所有版本 ](https://ezvn.cn/blog/articles/2019/03/26/1553610400920.html)
 * [oracle 存储过程重新编译方法](https://ezvn.cn/blog/articles/2019/03/27/1553653857401.html)
 * [Linux（Centos7）下搭建SVN服务器](https://ezvn.cn/blog/articles/2019/03/28/1553753125671.html)
 * [linu命令](https://ezvn.cn/blog/articles/2019/03/28/1553762241292.html)
@@ -76,6 +74,8 @@ ezvn
 * [【SpringBoot】— lombok的使用和原理](https://ezvn.cn/blog/articles/2019/03/31/1554041874916.html)
 * [Spring DevTools 介绍](https://ezvn.cn/blog/articles/2019/03/31/1554041933645.html)
 * [Spring-Boot中Spring Session介绍](https://ezvn.cn/blog/articles/2019/03/31/1554042169782.html)
+* [Spring Boot Cache使用与整合](https://ezvn.cn/blog/articles/2019/03/31/1554042251256.html)
+* [Spring Boot使用校验框架validation校验](https://ezvn.cn/blog/articles/2019/03/31/1554042317399.html)
 
 ---
 
