@@ -3,8 +3,8 @@ ezvn
 </h2>
 
 <h4 align="center"><p id="ezvn"></p></h4>
-<p align="center"><a title="ezvn" target="_blank" href="https://github.com/wanwenjie1993/solo-blog"><img src="https://img.shields.io/github/last-commit/wanwenjie1993/solo-blog.svg?style=flat-square"></a>
-<a title="GitHub repo size in bytes" target="_blank" href="https://github/wanwenjie1993/solo-blog"><img src="https://img.shields.io/github/repo-size/wanwenjie1993/solo-blog.svg?style=flat-square"></a>
+<p align="center"><a title="ezvn" target="_blank" href="https://github.com/wanwenjie1993/solo-blog"><img src="https://img.shields.io/github/last-commit/wanwenjie1993/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<a title="GitHub repo size in bytes" target="_blank" href="https://github.com/wanwenjie1993/solo-blog"><img src="https://img.shields.io/github/repo-size/wanwenjie1993/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.0-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/wanwenjie1993/solo-blog.svg"></a></p>
 
@@ -51,8 +51,8 @@ ezvn
 * ['telnet' 不是内部或外部命令，也不是可运行的程序 或批处理文件。](https://ezvn.cn/articles/2019/04/09/1554790108080.html)
 * [windows java进程后台启动脚本](https://ezvn.cn/articles/2019/04/09/1554786668810.html)
 * [内网穿透frp linux服务端搭建和windows客户端使用](https://ezvn.cn/articles/2019/03/24/1553440714576.html)
-* [centos7使用 <b>firewalld</b> 打开关闭防火墙与端口](https://ezvn.cn/articles/2019/03/24/1553437262508.html)
 * [动态创建javascript方式](https://ezvn.cn/articles/2019/03/24/1553401999674.html)
+* [centos7使用 <b>firewalld</b> 打开关闭防火墙与端口](https://ezvn.cn/articles/2019/03/24/1553437262508.html)
 
 ### 热议
 
