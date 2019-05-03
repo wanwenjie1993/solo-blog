@@ -51,8 +51,8 @@ ezvn
 * [oracle创建空间用户](https://ezvn.cn/articles/2019/04/09/1554786818282.html)
 * ['telnet' 不是内部或外部命令，也不是可运行的程序 或批处理文件。](https://ezvn.cn/articles/2019/04/09/1554790108080.html)
 * [windows java进程后台启动脚本](https://ezvn.cn/articles/2019/04/09/1554786668810.html)
-* [动态创建javascript方式](https://ezvn.cn/articles/2019/03/24/1553401999674.html)
 * [centos7使用 <b>firewalld</b> 打开关闭防火墙与端口](https://ezvn.cn/articles/2019/03/24/1553437262508.html)
+* [动态创建javascript方式](https://ezvn.cn/articles/2019/03/24/1553401999674.html)
 
 ### 热议
 
